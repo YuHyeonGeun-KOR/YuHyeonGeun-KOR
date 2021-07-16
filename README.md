@@ -1,4 +1,4 @@
-### 🌱 crwal walk run fly
+### 🌱 crawl walk run fly
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHyeonGeun-KOR&show_icons=true&theme=radical)
 <!--
 **YuHyeonGeun-KOR/YuHyeonGeun-KOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
