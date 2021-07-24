@@ -1,6 +1,10 @@
 ### 🌱 crawl walk run fly
 ![YuHyeonGeun-KOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHyeonGeun-KOR&show_icons=true&theme=radical)
 [![YuHyeonGeun-KOR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHyeonGeun-KOR&exclude_repo=Akgop.github.io,Needs-web&layout=compact&theme=gruvbox&langs_count=8&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+## :bulb: BOJ
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=biblus)](https://solved.ac/biblus)
+
 <!--
 **YuHyeonGeun-KOR/YuHyeonGeun-KOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
