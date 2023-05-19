@@ -8,6 +8,7 @@
 <!--
 **YuHyeonGeun-KOR/YuHyeonGeun-KOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/YuHyeonGeun-KOR)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
